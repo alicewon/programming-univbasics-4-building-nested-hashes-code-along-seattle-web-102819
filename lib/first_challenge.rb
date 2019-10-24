@@ -3,7 +3,7 @@ def first_challenge
 epic_tragedy = {
   :montague => {},
   :capulet => {}
-=begin
+
      :montague => {
        :patriarch => {name: "Lord Montague", age: "53"},
        :matriarch => {name: "Lady Montague", age: "54"},
@@ -23,6 +23,6 @@ epic_tragedy = {
     ]
   }
 }
-=end
+
 }
 end
